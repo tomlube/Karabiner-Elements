@@ -5,7 +5,7 @@
             "selected": true,
             "simple_modifications": {
                 "caps_lock": "delete_or_backspace",
-                "delete_or_backspace": "caps_lock"
+                "delete_or_backspace": "delete_forward"
             }
         }
     ]
